@@ -2,7 +2,7 @@ Oi olá programadores(a)👋
 
 Eu sou Matheus Manuel 
 
-💻 Eu sou um desenvolvedor(iniciante com experiência) frontend
+💻 Eu sou um desenvolvedor(:
 
 🔭 No momento, estou aprendendo web
 
@@ -32,6 +32,7 @@ Eu sou Matheus Manuel
  
                                                                                                                                   
  <a class="text-light " href="https://www.instagram.com/matheus_manuel_/" target="_blank">
-                        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white""> 
-  </a>
-                                                                      
+                        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"">
+    <a class="text-light " href="mailto:matheusmanuel111@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white">        
+            
