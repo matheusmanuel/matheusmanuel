@@ -20,9 +20,8 @@ Eu sou Matheus Manuel
 
 📩 matheusmanuel111@gmail.com
 
-![matheusmanuel](https://github-readme-stats.vercel.app/api?username=matheusmanuel&show_icons=true&theme=default)
-##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmanuel)](https://github.com/matheusmanuel/github-readme-stats)
+![matheusmanuel](https://github-readme-stats.vercel.app/api?username=matheusmanuel&show_icons=true&theme=default)
 
 <img src="https://komarev.com/ghpvc/?username=matheusmanuel&color=green" alt="matheusmanuel" /> 
 
