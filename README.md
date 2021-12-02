@@ -34,4 +34,6 @@ Eu sou Matheus Manuel
                         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"">
     <a class="text-light " href="mailto:matheusmanuel111@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white">        
+            <a class="text-light " href="https://www.youtube.com/channel/UCxKIsX5OXyyNWVmomuDc-LA" target="_blank">
+        <img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=Youtube&logoColor=white&color=critical">        
             
