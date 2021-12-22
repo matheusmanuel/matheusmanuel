@@ -12,8 +12,6 @@ Eu sou Matheus Manuel
 
 💬 Pergunte-me sobre o desenvolvimento de frontend aprender
 
-💢 Eu gosto de Aprender coisas e aperfeiçoar coisas que já sei,fazer amizades,trabalhar em equipes
-
 😒 Pouco Timido
 
 📫 Como chegar até mim: 
