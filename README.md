@@ -15,16 +15,3 @@ Quanto a mim, sou um desenvolvedor front-end apaixonado por criatividade e inova
 ![matheusmanuel](https://github-readme-stats.vercel.app/api?username=matheusmanuel&show_icons=true&theme=default)
 
 <img src="https://komarev.com/ghpvc/?username=matheusmanuel&color=green" alt="matheusmanuel" /> 
-
- <a class="text-light " href="https://www.facebook.com/matheus.hernandez.792/" target="_blank">
-                        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white""> 
-  </a>
- 
-                                                                                                                                  
- <a class="text-light " href="https://www.instagram.com/matheus_manuel_/" target="_blank">
-                        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"">
-    <a class="text-light " href="mailto:matheusmanuel111@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white">        
-            <a class="text-light " href="https://www.youtube.com/channel/UCxKIsX5OXyyNWVmomuDc-LA" target="_blank">
-        <img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=Youtube&logoColor=white&color=critical">        
-            
