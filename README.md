@@ -8,8 +8,8 @@ Quanto a mim, sou um desenvolvedor front-end apaixonado por criatividade e inova
 #### Minhas stacks
 (Amanhâ eu volto para atualizar essa parte)
 
-
-📩 matheusmanuel111@gmail.com
+## Eu estou escondido, saiba ainda me encontrar
+(Amanhã se DEUS quiser eu volto aqui para dizer onde me encontrar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmanuel)](https://github.com/matheusmanuel/github-readme-stats)
 ![matheusmanuel](https://github-readme-stats.vercel.app/api?username=matheusmanuel&show_icons=true&theme=default)
