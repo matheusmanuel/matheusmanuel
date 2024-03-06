@@ -1,5 +1,5 @@
 `{authorization: false}`
-# Olá amigo(a)
+# Olá
 Me chamo Matheus e é um prazer recebê-lo em meu Github. Com minha autorização `{authorization: true}`, você pode acessar meus projetos e analisar meus códigos. Boa caçada e espero que encontre boas descobertas 🎁.
 
 ### Quêm eu sou 
