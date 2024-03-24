@@ -1,6 +1,5 @@
-`{authorization: false}`
 # Olá
-Me chamo Matheus e é um prazer recebê-lo em meu Github. Com minha autorização `{authorization: true}`, você pode acessar meus projetos e analisar meus códigos. Boa caçada e espero que encontre boas descobertas 🎁.
+Me chamo Matheus e é um prazer recebê-lo em meu Github, você pode acessar meus projetos e analisar meus códigos. Boa caçada e espero que encontre boas descobertas 🎁.
 
 ### Quêm eu sou 
 Quanto a mim, sou um desenvolvedor front-end apaixonado por criatividade e inovação. Também sou criador de conteúdo e dedico parte do meu tempo à leitura de livros sobre programação, negócios e desenvolvimento pessoal. Busco me desenvolver continuamente e impactar positivamente a vida das pessoas por meio da tecnologia, criando ferramentas que facilitem o dia-a-dia das pessoas ao redor do mundo.
